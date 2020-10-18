@@ -1,0 +1,56 @@
+body {
+    font-family: "Decimal A", "Decimal B";
+    font-style: normal;
+    font-weight: 100;
+    color: #22221f;
+    background-color: #b7b9b3;
+}
+h1 {
+    line-height: 1em;
+}
+h2 {
+    font-family: "Decimal A", "Decimal B";
+font-style: italic;
+font-weight: 100;
+line-height: 1em;
+}
+h3 {
+    font-family: "Decimal A", "Decimal B";
+    font-style: normal;
+    font-weight: 100;
+    line-height: 1em;
+}
+a {
+    color: #ffd500;
+}
+a:hover {
+    color: #faf9f5;
+}
+a.btn:hover {
+    color: #ffd500;;
+}
+.aa-bold {
+    font-weight: 700;
+}
+
+
+
+.aa-black {
+background-color: black;
+}
+.aa-yellow {
+    background-color: #ffd500;
+    }
+.aa-yellow-text {
+        color: #ffd500;
+}
+.aa-white-text {
+    color: #faf9f5;
+}
+.aa-white {
+        background-color:#faf9f5;
+        }
+
+.aa-fullHeight {
+    height: 100%;
+}
